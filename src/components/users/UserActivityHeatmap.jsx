@@ -50,3 +50,4 @@ const UserActivityHeatmap = () => {
     </motion.div>
   )
 }
+export default UserActivityHeatmap;
