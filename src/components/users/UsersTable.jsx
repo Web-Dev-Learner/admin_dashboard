@@ -3,11 +3,11 @@ import { motion } from "framer-motion";
 import { Search } from "lucide-react";
 
 const userData = [
-	{ id: 1, name: "John Doe", email: "john@example.com", role: "Customer", status: "Active" },
-	{ id: 2, name: "Jane Smith", email: "jane@example.com", role: "Admin", status: "Active" },
-	{ id: 3, name: "Bob Johnson", email: "bob@example.com", role: "Customer", status: "Inactive" },
-	{ id: 4, name: "Alice Brown", email: "alice@example.com", role: "Customer", status: "Active" },
-	{ id: 5, name: "Charlie Wilson", email: "charlie@example.com", role: "Moderator", status: "Active" },
+	{ id: 1, name: "Sai Sree", email: "sai@example.com", role: "Customer", status: "Active" },
+	{ id: 2, name: "sara Patel", email: "sara@example.com", role: "Admin", status: "Active" },
+	{ id: 3, name: "Ravi Kapoor", email: "ravi@example.com", role: "Customer", status: "Inactive" },
+	{ id: 4, name: "Ananya Sri", email: "ananya@example.com", role: "Customer", status: "Active" },
+	{ id: 5, name: "Vikram Rao", email: "vikram@example.com", role: "Moderator", status: "Active" },
 ];
 
 const UsersTable = () => {
