@@ -1,5 +1,5 @@
-import { motion } from "framer-motion";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend, Cell } from "recharts";
+import { motion } from "framer-motion";
 
 const COLORS = ["#6366F1", "#8B5CF6", "#EC4899", "#10B981", "#F59E0B"];
 
@@ -24,8 +24,8 @@ const SalesChannelChart = () => {
 				<ResponsiveContainer>
 					<BarChart data={SALES_CHANNEL_DATA}>
 						<CartesianGrid strokeDasharray='3 3' stroke='#4B5563' />
-						<XAxis dataKey='name' stroke='#9CA3AF' />
-						<YAxis stroke='#9CA3AF' />
+						<XAxis dataKey='name' stroke='#9CA3AF' /> {/* Explicitly set stroke */}
+						<YAxis stroke='#9CA3AF' /> {/* Explicitly set stroke */}
 						<Tooltip
 							contentStyle={{
 								backgroundColor: "rgba(31, 41, 55, 0.8)",
