@@ -5,6 +5,12 @@
 ## Introduction
 The admin dashboard is a powerful web application for administrators to manage business data seamlessly. It provides real-time insights and an intuitive interface built with modern technologies like React.js and TailwindCSS. Key sections like Overview, Products, Users, Sales, Orders, Analytics, and Settings allow admins to stay on top of their operations.
 
+## Live Demo
+[Click here to view the live demo](YOUR_LIVE_DEMO_LINK)
+
+## GitHub Repository
+[View the GitHub repository](YOUR_GITHUB_REPO_LINK)
+
 ## Tools & Technologies
 <ul>
   <li><strong>React.js</strong> : Core framework for building reusable components and dynamic UI.</li>
