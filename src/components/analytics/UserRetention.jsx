@@ -43,3 +43,16 @@ const UserRetention = () => {
 	);
 };
 export default UserRetention;
+
+
+
+// LineChart: A chart that connects data points with a line, showing trends over time (e.g., user retention per week).
+// Line: Represents the actual line in the chart that connects the data points.
+// XAxis: The horizontal axis (e.g., weeks or months) that labels data categories.
+// YAxis: The vertical axis that shows the values (e.g., retention percentage, sales amount).
+// CartesianGrid: The grid lines that run horizontally and vertically across the chart, helping users read the data more easily.
+// BarChart: A chart where each data point is represented by a bar, showing comparisons between categories (e.g., sales or revenue by product).
+// Bar: Represents each individual bar in the BarChart, showing the data value for a category (e.g., sales, revenue, profit).
+// Tooltip: A small box that appears when you hover over a chart, showing detailed information about a specific data point.
+// Legend: A key that shows what each color or line represents in the chart (e.g., sales, revenue, or profit).
+// Stroke: Refers to the color or style of the line’s border (e.g., the color or width of the Line in LineChart).
