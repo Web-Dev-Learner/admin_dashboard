@@ -119,3 +119,9 @@ const OrdersTable = () => {
 	);
 };
 export default OrdersTable;
+
+
+// Search Functionality
+// Dynamic Rendering
+// Status Tags
+// Action Buttons

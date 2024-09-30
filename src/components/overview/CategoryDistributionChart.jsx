@@ -52,3 +52,8 @@ const CategoryDistributionChart = () => {
 	);
 };
 export default CategoryDistributionChart;
+
+
+
+// categoryData
+// piechart

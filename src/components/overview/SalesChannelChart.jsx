@@ -46,3 +46,7 @@ const SalesChannelChart = () => {
 	);
 };
 export default SalesChannelChart;
+
+
+// SALES_CHANNEL_DATA
+// barchart
