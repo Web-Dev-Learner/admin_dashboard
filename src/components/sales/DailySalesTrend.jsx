@@ -42,3 +42,8 @@ const DailySalesTrend = () => {
 	);
 };
 export default DailySalesTrend;
+
+
+
+// dailySalesData
+// Bar Chart

@@ -51,3 +51,14 @@ const SalesByCategoryChart = () => {
 	);
 };
 export default SalesByCategoryChart;
+
+
+// salesByCategory
+// Pie Chart
+// Cell: Defines the color for
+//  each slice using a
+//   predefined array COLORS
+//   Label: Each slice has a label showing
+//    the category name
+//    and percentage contribution.
+
