@@ -51,3 +51,9 @@ const UserDemographicsChart = () => {
 	);
 };
 export default UserDemographicsChart;
+
+
+
+// Visualizes user demographics by age group in a pie chart.
+// Labels each age group with the percentage share.
+// Includes tooltips for detailed information and is fully responsive.

@@ -47,3 +47,8 @@ const UserGrowthChart = () => {
 	);
 };
 export default UserGrowthChart;
+
+
+// Displays user growth over six months with a smooth line chart.
+// Includes tooltips to view exact numbers for each month.
+// Responsive design for various screen sizes.

@@ -121,3 +121,10 @@ const UsersTable = () => {
 	);
 };
 export default UsersTable;
+
+
+
+
+// Searchable table to filter users by name or email.
+// Displays user details such as name, email, role, and status.
+// Features interactive buttons for editing or deleting users.

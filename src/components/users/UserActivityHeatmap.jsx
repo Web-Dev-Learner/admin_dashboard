@@ -51,3 +51,8 @@ const UserActivityHeatmap = () => {
   )
 }
 export default UserActivityHeatmap;
+
+
+// Displays user activity at different time intervals.
+// Utilizes a stacked bar chart with a color-coded time segmentation.
+// Includes interactive features like tooltips and a responsive design.
