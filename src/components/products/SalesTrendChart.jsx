@@ -41,3 +41,9 @@ const SalesTrendChart = () => {
 	);
 };
 export default SalesTrendChart;
+
+
+// salesData
+// Line Chart
+// Axes and Grid x- months r y - sales values
+// Tooltip and Legend 

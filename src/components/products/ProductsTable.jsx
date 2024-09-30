@@ -153,3 +153,11 @@ const ProductsTable = () => {
 	);
 };
 export default ProductsTable;
+
+
+// product data 
+// Search Functionality
+// Table Structure
+// Dynamic Rows
+// Action Buttons
+// url unsplash
