@@ -31,3 +31,6 @@ const Notifications = () => {
 	);
 };
 export default Notifications;
+
+
+// switches for enabling/disabling.

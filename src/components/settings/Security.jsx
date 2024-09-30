@@ -26,3 +26,7 @@ const Security = () => {
 	);
 };
 export default Security;
+
+
+// Option to toggle two-factor authentication.
+// Password change button.

@@ -60,3 +60,7 @@ const ConnectedAccounts = () => {
 	);
 };
 export default ConnectedAccounts;
+
+
+// List of connected accounts, toggle between connected and not connected.
+// Option to add a new account.
