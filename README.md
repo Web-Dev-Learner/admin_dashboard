@@ -2,8 +2,7 @@
 
 # Admin Dashboard
 
-## Introduction
-The admin dashboard is a powerful web application for administrators to manage business data seamlessly. It provides real-time insights and an intuitive interface built with modern technologies like React.js and TailwindCSS. Key sections like Overview, Products, Users, Sales, Orders, Analytics, and Settings allow admins to stay on top of their operations.
+Admin dashboard is a  web application  built with modern technologies like React.js and TailwindCSS. Key sections like Overview, Products, Users, Sales, Orders, Analytics, and Settings.
 
 ## Live Demo
 [Click here to view the live demo](https://admin-dashboard-teal-seven.vercel.app/)
